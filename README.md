@@ -6,8 +6,8 @@ Skills para o teu agente de IA remover código não usado dos teus projetos.
 
 | Skill | Stack | Como funciona |
 |-------|-------|---------------|
-| [`codigo-morto`](skills/codigo-morto/SKILL.md) | Java (Fabric/Paper, Gradle/Maven) + HTML/CSS | Um só agente, verifica pelo compilador e por screenshots antes/depois |
-| [`remove-deadcode`](skills/remove-deadcode/SKILL.md) | TypeScript/Bun | Original: vários agentes em paralelo com verificação por LSP |
+| [`removeUnslessCode-Java-HTML-CSS`](skills/removeUnslessCode-Java-HTML-CSS/SKILL.md) | Java (Fabric/Paper, Gradle/Maven) + HTML/CSS | Um só agente, verifica pelo compilador e por screenshots antes/depois |
+| [`removeUnslessCode-TypeScript`](skills/removeUnslessCode-TypeScript/SKILL.md) | TypeScript/Bun | Original: vários agentes em paralelo com verificação por LSP |
 
 ## Instalar
 

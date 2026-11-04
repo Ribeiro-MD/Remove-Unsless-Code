@@ -1,5 +1,5 @@
 ---
-name: remove-deadcode
+name: removeunslesscode-typescript
 description: "Remove unused code from this project with ultrawork mode, LSP-verified safety, atomic commits. Triggers: remove dead code, dead code, cleanup, remove unused."
 ---
 

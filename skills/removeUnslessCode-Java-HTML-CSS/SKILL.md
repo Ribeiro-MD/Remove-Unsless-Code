@@ -1,6 +1,6 @@
 ---
-name: codigo-morto
-description: Remove código morto (não usado) de projetos Java (Fabric/Paper/Gradle/Maven) e HTML/CSS com verificação antes de apagar. Usar em vez de remove-deadcode para estes stacks.
+name: removeunslesscode-java-html-css
+description: Remove código morto (não usado) de projetos Java (Fabric/Paper/Gradle/Maven) e HTML/CSS com verificação antes de apagar. Usar em vez de removeUnslessCode-TypeScript para estes stacks.
 ---
 
 # Remover código morto — Java + HTML/CSS
